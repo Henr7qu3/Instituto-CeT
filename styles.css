@@ -163,7 +163,6 @@ button { font: inherit; }
   letter-spacing: .14em;
   text-transform: uppercase;
 }
-.eyebrow::before { width: 27px; height: 1px; background: var(--gold); margin-right: 4px; content: ""; }
 .eyebrow span { width: 3px; height: 3px; background: currentColor; border-radius: 50%; }
 h1, h2 { font-family: var(--serif); font-weight: 400; letter-spacing: -.045em; }
 h1 { font-size: clamp(3.15rem, 5.05vw, 4.6rem); line-height: 1.035; }
